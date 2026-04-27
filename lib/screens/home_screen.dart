@@ -279,7 +279,7 @@ class _HomeTabState extends State<_HomeTab> {
           ),
           const SizedBox(height: 4),
           Text(_savings['name'] ?? 'My Goal',
-              style: GoogleFonts.plusJakartaSans(fontSize: 12, color: Colors.black45)),
+              style: GoogleFonts.plusJakartaSans(fontSize: 12, color: Colors.black)),
           const SizedBox(height: 12),
           ClipRRect(
             borderRadius: BorderRadius.circular(8),
