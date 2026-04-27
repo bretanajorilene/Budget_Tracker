@@ -245,7 +245,7 @@ class _HomeTabState extends State<_HomeTab> {
                     fontWeight: FontWeight.w800, fontSize: 15, color: const Color(0xFF1A2E1A))),
             const SizedBox(height: 2),
             Text(label,
-                style: GoogleFonts.plusJakartaSans(fontSize: 11, color: Colors.black38)),
+                style: GoogleFonts.plusJakartaSans(fontSize: 11, color: Colors.black)),
           ],
         ),
       ),
